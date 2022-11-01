@@ -1,0 +1,46 @@
+* {
+box-sizing: border-box;
+}
+.c{
+  display: flex;
+  flex-wrap: wrap;
+}
+.b{
+  padding: 1%;
+  flex: 1 0 50%;
+  height: 50vh;
+}
+.divapp{
+  width: 100%;
+  padding: 0 100px;
+  
+}
+body{
+  background-color: black;
+}
+.divapp div {
+  width: 100%;
+}
+.chartss{
+
+  width: 400px;
+}
+.cold-md-5.float-right{
+
+padding: 0 0 0 70%;
+}
+
+.cold-md-10{
+
+
+  background-color: rgba(128, 128, 128, 0.459);
+  border-radius: 10px;
+  padding: 8px 0 8px 40px;
+}
+.text-danger{
+
+
+  padding: 0 0 0 30px ;
+
+
+}
